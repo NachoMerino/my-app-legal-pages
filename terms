@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Terms of Service</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 2rem; line-height: 1.5; max-width: 800px; }
+    h1, h2 { margin: 0 0 .5rem; }
+    h1 { font-size: 1.8rem; }
+    h2 { font-size: 1.1rem; margin-top: 1.5rem; }
+    p, li { margin: .5rem 0; }
+    small { color: #666; }
+    a { color: inherit; text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p><small>Last updated: August 14, 2025</small></p>
+
+  <h2>1. Acceptance</h2>
+  <p>By accessing or using this application (the “Service”), you agree to these Terms of Service (“Terms”). If you do not agree, do not use the Service.</p>
+
+  <h2>2. Development Status</h2>
+  <p>This is a development version of our application. Features may change and the Service may be temporarily unavailable.</p>
+
+  <h2>3. Permitted Use</h2>
+  <p>You agree to use the Service only for lawful purposes and in accordance with applicable platform policies (including Facebook and LinkedIn). You will not attempt to reverse engineer, disrupt, or misuse the Service.</p>
+
+  <h2>4. Accounts & Data</h2>
+  <p>We do not store or share personal data beyond what is needed for Facebook API and LinkedIn API testing during development. Any data accessed from Facebook or LinkedIn is used solely to test integration features.</p>
+  <p>For details, see our <a href="/privacy.html">Privacy Policy</a>. To request deletion of your data, follow the <a href="/data-deletion.html">Data Deletion Instructions</a> or email <a href="mailto:ignacio.merino@cileria.com">ignacio.merino@cileria.com</a>. We will remove related information within 7 days.</p>
+
+  <h2>5. Third-Party Services</h2>
+  <p>The Service may interact with third-party platforms (e.g., Facebook, LinkedIn). We do not control and are not responsible for third-party terms, policies, or availability.</p>
+
+  <h2>6. Intellectual Property</h2>
+  <p>The Service and its content are owned by us or our licensors. You receive a limited, revocable, non-transferable license to use the Service as provided.</p>
+
+  <h2>7. Disclaimer of Warranties</h2>
+  <p>THE SERVICE IS PROVIDED “AS IS” AND “AS AVAILABLE” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, including but not limited to fitness for a particular purpose, non-infringement, or availability.</p>
+
+  <h2>8. Limitation of Liability</h2>
+  <p>To the maximum extent permitted by law, we are not liable for any indirect, incidental, special, consequential, or punitive damages, or for loss of data, profits, or goodwill arising from or related to your use of the Service.</p>
+
+  <h2>9. Changes</h2>
+  <p>We may update these Terms at any time. Continued use of the Service after changes become effective constitute
